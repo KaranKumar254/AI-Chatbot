@@ -21,7 +21,7 @@ Aapke system mein ye install hona chahiye:
 ## ⚙️ Installation & Setup
 
 1. Project ko clone karein:
-   git clone https://github.com/your-username/chatbot-node.git
+   git clone https://github.com/KaranKumar254/AI-Chatbot.git
 
 2. Folder mein jayein:
    cd chatbot-node
@@ -32,3 +32,4 @@ Aapke system mein ye install hona chahiye:
 ## 🚦 How to Run
 Project start karne ke liye:
 npm start
+
