@@ -1,35 +1,51 @@
 ﻿# Chatbot Node Project
-# Project Name: Chatbot Node
+AI Chatbot
+A smart and responsive chatbot application built using Node.js. This project demonstrates how to integrate AI logic/APIs into a backend environment to create an interactive user experience.
 
-Ye ek simple Node.js chatbot project hai jo [AI/API/Logic] ka use karta hai.
+🚀 Features
 
-## 🚀 Features
-* Real-time messaging
-* Easy to setup
-* API integration (agar hai toh)
+Real-time Messaging: Fast and seamless communication.
 
-## 🛠️ Tech Stack
-* **Language:** Node.js
-* **Framework:** Express.js (agar use kiya hai)
-* **Tools:** Git, VS Code
+Easy Setup: Minimal configuration required to get started.
 
-## 📋 Prerequisites
-Aapke system mein ye install hona chahiye:
-* Node.js (v14+)
-* NPM
+API Integration: Ready to connect with modern AI services.
 
-## ⚙️ Installation & Setup
+Scalable Design: Built with a modular structure for future enhancements.
 
-1. Project ko clone karein:
-   git clone https://github.com/KaranKumar254/AI-Chatbot.git
+🛠️ Tech Stack
 
-2. Folder mein jayein:
-   cd chatbot-node
+Runtime: Node.js
 
-3. Dependencies install karein:
-   npm install
+Framework: Express.js
 
-## 🚦 How to Run
-Project start karne ke liye:
+Tools: Git, VS Code
+
+Language: JavaScript
+
+📋 Prerequisites
+
+Ensure you have the following installed on your system:
+
+Node.js (v14 or higher)
+
+NPM (Node Package Manager)
+
+⚙️ Installation & Setup
+
+Clone the repository:
+
+
+git clone https://github.com/KaranKumar254/AI-Chatbot.git
+Navigate to the project directory:
+
+
+cd chatbot-node
+Install dependencies:
+
+npm install
+🚦 How to Run
+To start the project, run one of the following commands in your terminal:
+
 npm start
-
+OR
+node server.js
